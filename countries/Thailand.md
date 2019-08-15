@@ -9,6 +9,6 @@ Bangkok
 Thai
 
 ## interesting trivia
-The elephant is Thailand's national symboly
+The elephant is Thailand's national symbol
 
 

@@ -1,14 +1,14 @@
-##Venezuela
-## population
+## Venezuela
+## population: 31.98 million (2017)
 
 
-## capital
+## capital: Caracas
 
  
-## official language
+## official: language Spanish
 
 
-## interesting trivia
+## interesting trivia: The name Venezuela comes from the Italian word "Veneziola"
 
 
 

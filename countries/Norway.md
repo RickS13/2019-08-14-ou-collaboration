@@ -6,7 +6,7 @@
 Oslo
  
 ## official language
-Norwegian is most widely spoken official language.
+Norwegian is most widely spoken official language. '\n'
 Other official languages include Nynorsk, Bokmal, and Saami.
 
 ## interesting trivia

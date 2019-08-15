@@ -1,14 +1,14 @@
-##Cambodia
-## population
+## Cambodia
+## Population
+15.29 million 
 
-
-## capital
-
+## Capital
+Phnom Penh
  
-## official language
+## Official language
+Khmer
 
-
-## interesting trivia
-
+## Interesting trivia
+They grow a specific type of pepper called Kampot Pepper in the southeastern region of the country and it's delicious!
 
 
